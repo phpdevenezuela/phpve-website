@@ -122,7 +122,7 @@
 	
 	define('QA_WORDPRESS_INTEGRATE_PATH', '/PATH/TO/WORDPRESS');
 */
-
+	define('QA_WORDPRESS_INTEGRATE_PATH', '/public_html/phpve-website/cms');
 /*
 	Some settings to help optimize your Question2Answer site's performance.
 	
